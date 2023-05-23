@@ -1,6 +1,9 @@
 ### INSTALLATION
 
 1. Install Terrasect ocr `https://tesseract-ocr.github.io/tessdoc/Installation.html`
+
+ubuntu:
+
 `
 sudo apt install tesseract-ocr
 sudo apt install libtesseract-dev
