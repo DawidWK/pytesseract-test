@@ -19,6 +19,11 @@ python -m venv venv
 source venv/bin/activate
 `
 
+4. Install requirements
+`
+pip install -r requirements.txt
+`
+
 4. Run app
 `
 python app.py "sciezka/do/pliku.png"
